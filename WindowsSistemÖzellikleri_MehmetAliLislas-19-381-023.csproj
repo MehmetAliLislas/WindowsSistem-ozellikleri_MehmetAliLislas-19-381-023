@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>WindowsSistemÖzellikleri_MehmetAliLislas_19_381_023</RootNamespace>
+    <ApplicationIcon>staj.ico</ApplicationIcon>
+    <Description>Mehmet Ali Lislas Staj Projesi.</Description>
+    <Product>Windows Sistem Özellikleri</Product>
+    <Authors>Mehmet Ali LİSLAS</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+</Project>

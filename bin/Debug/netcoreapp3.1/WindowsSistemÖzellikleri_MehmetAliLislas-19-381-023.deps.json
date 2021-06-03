@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023/1.0.0": {
+        "runtime": {
+          "WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

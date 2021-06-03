@@ -1,0 +1,13 @@
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\bin\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.exe
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\bin\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.deps.json
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\bin\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.runtimeconfig.json
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\bin\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.runtimeconfig.dev.json
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\bin\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.dll
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\bin\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.pdb
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\obj\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.csprojAssemblyReference.cache
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\obj\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.AssemblyInfoInputs.cache
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\obj\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.AssemblyInfo.cs
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\obj\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\obj\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.dll
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\obj\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.pdb
+C:\Users\Mehmet Ali\Desktop\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023\obj\Debug\netcoreapp3.1\WindowsSistemÖzellikleri_MehmetAliLislas-19-381-023.genruntimeconfig.cache
