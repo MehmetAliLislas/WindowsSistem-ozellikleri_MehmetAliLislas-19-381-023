@@ -1,1 +1,1 @@
-# WindowsSistem-zellikleri_MehmetAliLislas-19-381-023
+# WindowsSistem-ozellikleri_MehmetAliLislas-19-381-023
